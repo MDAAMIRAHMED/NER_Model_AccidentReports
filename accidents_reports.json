@@ -1,0 +1,2778 @@
+[
+    {
+        "incidentId": "INC-2024-001",
+        "dateTime": "2024-03-08T09:01:41.295149",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory B.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-012"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-002",
+        "dateTime": "2024-02-05T09:01:41.295225",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-021",
+            "CONF-001"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-003",
+        "dateTime": "2024-04-26T09:01:41.295263",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-031",
+            "CONF-028",
+            "CHEM-021"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-004",
+        "dateTime": "2024-04-29T09:01:41.295283",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-046",
+            "CONF-049"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-005",
+        "dateTime": "2024-05-16T09:01:41.295300",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-043",
+            "HEIGHTS-020",
+            "CONF-007"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-006",
+        "dateTime": "2024-02-17T09:01:41.295316",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-015",
+            "HEIGHTS-014",
+            "CONF-040"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-007",
+        "dateTime": "2023-08-30T09:01:41.295346",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-029"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-008",
+        "dateTime": "2024-08-17T09:01:41.295375",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Plant D.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-033"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-009",
+        "dateTime": "2024-03-01T09:01:41.295392",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-021",
+            "HEIGHTS-050",
+            "HEIGHTS-002"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-010",
+        "dateTime": "2024-07-17T09:01:41.295412",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-001",
+            "CONF-010"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-011",
+        "dateTime": "2023-11-20T09:01:41.295428",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-028"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-012",
+        "dateTime": "2024-05-07T09:01:41.295450",
+        "location": {
+            "site": "Factory B",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-025"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-013",
+        "dateTime": "2023-12-23T09:01:41.295479",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory B.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-028",
+            "HEIGHTS-029"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-014",
+        "dateTime": "2024-05-21T09:01:41.295506",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-042"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-015",
+        "dateTime": "2024-03-13T09:01:41.295529",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-009",
+            "CONF-013",
+            "HEIGHTS-002"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-016",
+        "dateTime": "2024-01-22T09:01:41.295556",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-012",
+            "CONF-007",
+            "CHEM-042"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-017",
+        "dateTime": "2023-11-06T09:01:41.295572",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-038",
+            "HEIGHTS-041",
+            "CONF-013"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-018",
+        "dateTime": "2023-10-03T09:01:41.295591",
+        "location": {
+            "site": "Factory B",
+            "region": "South"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-042",
+            "CHEM-021"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-019",
+        "dateTime": "2024-02-03T09:01:41.295608",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-045",
+            "HEIGHTS-020"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-020",
+        "dateTime": "2024-06-22T09:01:41.295627",
+        "location": {
+            "site": "Warehouse C",
+            "region": "South"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-034",
+            "CONF-028",
+            "CHEM-003"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-021",
+        "dateTime": "2024-04-08T09:01:41.295655",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-031",
+            "HEIGHTS-041",
+            "HEIGHTS-017"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-022",
+        "dateTime": "2024-07-03T09:01:41.295679",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-003",
+            "CHEM-009",
+            "CONF-001"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-023",
+        "dateTime": "2024-01-28T09:01:41.295698",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-022"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-024",
+        "dateTime": "2024-08-20T09:01:41.295713",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-032",
+            "CHEM-027",
+            "CONF-046"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-025",
+        "dateTime": "2024-03-22T09:01:41.295735",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-020",
+            "HEIGHTS-038",
+            "HEIGHTS-041"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-026",
+        "dateTime": "2023-11-29T09:01:41.295762",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-048",
+            "CHEM-021"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-027",
+        "dateTime": "2024-05-20T09:01:41.295785",
+        "location": {
+            "site": "Plant D",
+            "region": "East"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Plant D.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-021",
+            "CONF-013"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-028",
+        "dateTime": "2024-02-14T09:01:41.295806",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-016"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-029",
+        "dateTime": "2024-05-23T09:01:41.295834",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-026",
+            "CONF-043"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-030",
+        "dateTime": "2024-05-03T09:01:41.295853",
+        "location": {
+            "site": "Plant D",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-020",
+            "CONF-004",
+            "CHEM-048"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-031",
+        "dateTime": "2023-12-20T09:01:41.295871",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-027",
+            "CONF-022"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-032",
+        "dateTime": "2024-08-18T09:01:41.295888",
+        "location": {
+            "site": "Warehouse C",
+            "region": "South"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-048",
+            "CHEM-003",
+            "HEIGHTS-008"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-033",
+        "dateTime": "2024-04-28T09:01:41.295907",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-033"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-034",
+        "dateTime": "2024-08-10T09:01:41.295935",
+        "location": {
+            "site": "Plant D",
+            "region": "East"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-017"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-035",
+        "dateTime": "2024-04-16T09:01:41.295967",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-045",
+            "CHEM-018",
+            "CHEM-003"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-036",
+        "dateTime": "2024-05-24T09:01:41.295984",
+        "location": {
+            "site": "Factory B",
+            "region": "South"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-044"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-037",
+        "dateTime": "2023-09-16T09:01:41.295999",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Plant D.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-026",
+            "CHEM-045",
+            "CHEM-042"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-038",
+        "dateTime": "2023-12-24T09:01:41.296015",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-025"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-039",
+        "dateTime": "2024-08-11T09:01:41.296041",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-032",
+            "CONF-040",
+            "CHEM-045"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-040",
+        "dateTime": "2024-01-22T09:01:41.296060",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-008",
+            "HEIGHTS-005",
+            "CHEM-012"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-041",
+        "dateTime": "2024-07-20T09:01:41.296077",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-035",
+            "CHEM-006"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-042",
+        "dateTime": "2023-12-18T09:01:41.296093",
+        "location": {
+            "site": "Factory B",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory B.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-036",
+            "CHEM-015",
+            "HEIGHTS-023"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-043",
+        "dateTime": "2023-08-28T09:01:41.296111",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-037",
+            "CONF-040",
+            "HEIGHTS-041"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-044",
+        "dateTime": "2024-05-22T09:01:41.296128",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-025"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-045",
+        "dateTime": "2023-11-09T09:01:41.296150",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-004",
+            "CONF-040"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-046",
+        "dateTime": "2023-12-28T09:01:41.296182",
+        "location": {
+            "site": "Warehouse C",
+            "region": "South"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-042",
+            "HEIGHTS-038",
+            "CONF-031"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-047",
+        "dateTime": "2023-11-29T09:01:41.296210",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-049"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-048",
+        "dateTime": "2023-10-06T09:01:41.296227",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-013",
+            "CONF-007"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-049",
+        "dateTime": "2024-03-06T09:01:41.296251",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-038"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-050",
+        "dateTime": "2024-01-11T09:01:41.296281",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-037",
+            "CONF-031"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-051",
+        "dateTime": "2023-09-22T09:01:41.296300",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-035",
+            "CONF-016",
+            "CONF-043"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-052",
+        "dateTime": "2023-11-20T09:01:41.296325",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-049",
+            "CONF-046",
+            "HEIGHTS-026"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-053",
+        "dateTime": "2024-01-13T09:01:41.296352",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-002",
+            "CHEM-009",
+            "CONF-001"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-054",
+        "dateTime": "2023-09-02T09:01:41.296372",
+        "location": {
+            "site": "Factory B",
+            "region": "South"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-023"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-055",
+        "dateTime": "2024-02-12T09:01:41.296391",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-007",
+            "HEIGHTS-044",
+            "HEIGHTS-047"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-056",
+        "dateTime": "2024-04-24T09:01:41.296413",
+        "location": {
+            "site": "Factory A",
+            "region": "South"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-028",
+            "HEIGHTS-035"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-057",
+        "dateTime": "2023-10-13T09:01:41.296441",
+        "location": {
+            "site": "Factory A",
+            "region": "South"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-006",
+            "HEIGHTS-038",
+            "CONF-016"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-058",
+        "dateTime": "2023-12-02T09:01:41.296458",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-028",
+            "HEIGHTS-044"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-059",
+        "dateTime": "2024-06-27T09:01:41.296476",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-037",
+            "CHEM-030",
+            "HEIGHTS-011"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-060",
+        "dateTime": "2023-10-07T09:01:41.296495",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-001"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-061",
+        "dateTime": "2023-11-02T09:01:41.296509",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory B.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-007"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-062",
+        "dateTime": "2024-01-10T09:01:41.296529",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-015"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-063",
+        "dateTime": "2024-01-23T09:01:41.296566",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-016",
+            "HEIGHTS-017"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-064",
+        "dateTime": "2024-01-27T09:01:41.296584",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-009",
+            "HEIGHTS-017"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-065",
+        "dateTime": "2024-02-21T09:01:41.296606",
+        "location": {
+            "site": "Factory B",
+            "region": "South"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory B.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-011"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-066",
+        "dateTime": "2024-08-03T09:01:41.296638",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-002",
+            "CHEM-024"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-067",
+        "dateTime": "2023-10-09T09:01:41.296654",
+        "location": {
+            "site": "Plant D",
+            "region": "East"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-017",
+            "CONF-004",
+            "HEIGHTS-026"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-068",
+        "dateTime": "2024-02-10T09:01:41.296670",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-024"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-069",
+        "dateTime": "2024-06-13T09:01:41.296686",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-028",
+            "CONF-031"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-070",
+        "dateTime": "2023-10-01T09:01:41.296708",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-049",
+            "CHEM-018",
+            "CONF-022"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-071",
+        "dateTime": "2024-05-18T09:01:41.296740",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-022",
+            "HEIGHTS-002"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-072",
+        "dateTime": "2024-04-29T09:01:41.296755",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory B.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-042"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-073",
+        "dateTime": "2024-07-24T09:01:41.296770",
+        "location": {
+            "site": "Factory A",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-004",
+            "HEIGHTS-038"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-074",
+        "dateTime": "2024-08-04T09:01:41.296785",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-032",
+            "HEIGHTS-017",
+            "CONF-040"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-075",
+        "dateTime": "2023-11-29T09:01:41.296804",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-008"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-076",
+        "dateTime": "2024-02-05T09:01:41.296830",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-047",
+            "CHEM-048",
+            "CONF-004"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-077",
+        "dateTime": "2024-02-27T09:01:41.296846",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-039"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-078",
+        "dateTime": "2024-04-27T09:01:41.296862",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-039",
+            "CONF-001",
+            "HEIGHTS-050"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-079",
+        "dateTime": "2023-09-19T09:01:41.296878",
+        "location": {
+            "site": "Warehouse C",
+            "region": "West"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-013"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-080",
+        "dateTime": "2024-05-04T09:01:41.296904",
+        "location": {
+            "site": "Plant D",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CHEM-027",
+            "CHEM-045"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-081",
+        "dateTime": "2023-10-11T09:01:41.296928",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory B.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-010",
+            "CHEM-039",
+            "HEIGHTS-044"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-082",
+        "dateTime": "2024-08-15T09:01:41.296944",
+        "location": {
+            "site": "Factory B",
+            "region": "West"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-039",
+            "HEIGHTS-005",
+            "CONF-001"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-083",
+        "dateTime": "2024-04-25T09:01:41.296962",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory B.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-041",
+            "HEIGHTS-011"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-084",
+        "dateTime": "2024-03-15T09:01:41.296977",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Confined Space Incident",
+        "description": "Confined Space Incident occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-029"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-085",
+        "dateTime": "2023-08-29T09:01:41.296995",
+        "location": {
+            "site": "Plant D",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-049",
+            "HEIGHTS-044",
+            "CONF-043"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "equipment failure",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-086",
+        "dateTime": "2024-06-20T09:01:41.297028",
+        "location": {
+            "site": "Plant D",
+            "region": "West"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-007"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "human error",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-087",
+        "dateTime": "2024-05-01T09:01:41.297059",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "HEIGHTS-047"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-088",
+        "dateTime": "2024-05-20T09:01:41.297075",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-023",
+            "CHEM-009"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-089",
+        "dateTime": "2024-06-29T09:01:41.297090",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-036",
+            "CONF-019"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-090",
+        "dateTime": "2024-06-18T09:01:41.297116",
+        "location": {
+            "site": "Factory B",
+            "region": "East"
+        },
+        "type": "Chemical Spill",
+        "description": "Chemical Spill occurred at Factory B.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-007",
+            "CONF-028"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-091",
+        "dateTime": "2023-11-20T09:01:41.297149",
+        "location": {
+            "site": "Factory A",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-009"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-092",
+        "dateTime": "2024-05-06T09:01:41.297166",
+        "location": {
+            "site": "Warehouse C",
+            "region": "East"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CHEM-024",
+            "HEIGHTS-047",
+            "CONF-046"
+        ],
+        "immediateActions": "Shut down equipment and isolated area",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-093",
+        "dateTime": "2023-09-19T09:01:41.297182",
+        "location": {
+            "site": "Factory A",
+            "region": "South"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-030",
+            "CONF-031"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-094",
+        "dateTime": "2024-08-14T09:01:41.297385",
+        "location": {
+            "site": "Warehouse C",
+            "region": "North"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-040",
+            "CHEM-021"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-095",
+        "dateTime": "2023-11-06T09:01:41.297420",
+        "location": {
+            "site": "Factory A",
+            "region": "South"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory A.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "HEIGHTS-008",
+            "HEIGHTS-032",
+            "CONF-004"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Environmental hazard not identified",
+                "category": "procedural error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "equipment failure",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-096",
+        "dateTime": "2023-11-16T09:01:41.297439",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory A.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "CONF-034"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Implement better hazard identification process"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-097",
+        "dateTime": "2023-10-16T09:01:41.297746",
+        "location": {
+            "site": "Factory A",
+            "region": "West"
+        },
+        "type": "Height-Related Fall",
+        "description": "Height-Related Fall occurred at Factory A.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CONF-025",
+            "HEIGHTS-008",
+            "CONF-022"
+        ],
+        "immediateActions": "Ventilated space and removed worker",
+        "rootCauses": [
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "equipment failure",
+                "preventionRecommendations": "Review and update safety procedures"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "environmental factors",
+                "preventionRecommendations": "Implement better hazard identification process"
+            },
+            {
+                "description": "Equipment malfunctioned during operation",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-098",
+        "dateTime": "2024-03-25T09:01:41.297769",
+        "location": {
+            "site": "Plant D",
+            "region": "South"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Plant D.",
+        "severityLevel": "high",
+        "relatedProcedures": [
+            "CONF-028",
+            "CONF-013"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Review and update safety procedures"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-099",
+        "dateTime": "2024-03-25T09:01:41.297792",
+        "location": {
+            "site": "Factory B",
+            "region": "North"
+        },
+        "type": "Equipment Failure",
+        "description": "Equipment Failure occurred at Factory B.",
+        "severityLevel": "medium",
+        "relatedProcedures": [
+            "CHEM-027"
+        ],
+        "immediateActions": "Evacuated area and provided first aid",
+        "rootCauses": [
+            {
+                "description": "Inadequate safety checks",
+                "category": "human error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            },
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "procedural error",
+                "preventionRecommendations": "Enhance equipment maintenance protocols"
+            }
+        ]
+    },
+    {
+        "incidentId": "INC-2024-100",
+        "dateTime": "2023-10-22T09:01:41.297820",
+        "location": {
+            "site": "Warehouse C",
+            "region": "South"
+        },
+        "type": "Fire Hazard",
+        "description": "Fire Hazard occurred at Warehouse C.",
+        "severityLevel": "low",
+        "relatedProcedures": [
+            "HEIGHTS-011"
+        ],
+        "immediateActions": "Contained spill and alerted hazardous material team",
+        "rootCauses": [
+            {
+                "description": "Procedural step missed by worker",
+                "category": "procedural error",
+                "preventionRecommendations": "Increase training frequency"
+            },
+            {
+                "description": "Inadequate safety checks",
+                "category": "environmental factors",
+                "preventionRecommendations": "Increase training frequency"
+            }
+        ]
+    }
+]
